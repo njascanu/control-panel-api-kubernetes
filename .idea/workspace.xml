@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff05e418-f8e8-435f-91ba-d76bfda1c82f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/configs/app.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/routes/heroes/heroes.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/routes/heroes/heroes.repository.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/routes/heroes/heroes.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/configs/app.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/configs/app.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667486546286</updated>
-      <workItem from="1667486547476" duration="4378000" />
+      <workItem from="1667486547476" duration="5307000" />
     </task>
     <servers />
   </component>
