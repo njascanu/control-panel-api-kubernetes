@@ -1,3 +1,5 @@
+import * as dotEnv from "dotenv"
+dotEnv.config();
 export default class AppConfig {
 
     constructor() {
